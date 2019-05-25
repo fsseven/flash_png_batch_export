@@ -9,9 +9,10 @@ This file is inspired by THIS LINK：http://oldsite.abitofcode.com/2011/11/expor
 3) Add scale support for export
 
 # How to use
-1) Open .fla file
-2) Drag the jsfl to the opened windows, select "Run as Command".
-3) Just wait.
+1）Download "batch_export_single_folder.jsfl"
+2) Open .fla file
+3) Drag the jsfl to the opened windows, select "Run as Command".
+4) Just wait.
 
 # Note
 If you want to change the scaleFactor, just change the line 36
