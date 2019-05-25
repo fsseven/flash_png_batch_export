@@ -15,8 +15,8 @@ This file is inspired by THIS LINK：http://oldsite.abitofcode.com/2011/11/expor
 3) Drag the jsfl to the opened windows, select "Run as Command".
 4) Just wait.
 
-# Note
-If you want to change the scaleFactor, just change the line 36
-exportItemAsPng(currentItem, 2.0)
+# How to change scale factor
+If you want to change the scaleFactor, just change the line 36<br/>
+exportItemAsPng(currentItem, 2.0)<br/>
 change "2.0" to any scale number.
 
