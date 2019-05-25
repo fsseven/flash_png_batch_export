@@ -1,7 +1,7 @@
 # A JSFL that could do batch export from the library for Flash/Animate
 
 This file is inspired by THIS LINK：http://oldsite.abitofcode.com/2011/11/export-flash-library-items-as-pngs-with-jsfl/<br/>
-This jsfl file is ONLY be tested under Animate CC 2019
+`This jsfl file is ONLY be tested under Animate CC 2019`
 
 # What I did:
 1) Fixed the problem that the component has no linkageIdentifier(use name instead).
